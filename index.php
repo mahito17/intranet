@@ -3,7 +3,7 @@
     require_once("config/conexion_db.php");
     // error_reporting(E_ALL);
     // ini_set('display_errors', '1');
-    //Si sesion esta iniciada se redirige al contenido, sino muestra index de logueo//
+    //si esta iniciada la session se redirige al contenido, sino muestra index de login//
     if(isset($_SESSION["usu_id"]) AND $_SESSION['usu_inicio_sesion']!=0){
         header("Location:contenido.php");
     } else {
