@@ -73,7 +73,7 @@
 	<title>Intranet | Pozo de Donato S.A.S.</title>
 </head>
 <body>
-	<meta http-equiv='refresh' content='120; URL=https://www.garpermedica.com/intranet'/>
+	<meta http-equiv='refresh' content='120; URL=https://www.pozodonato.com/intranet'/>
 	<div class="container-fluid">
 		<div class="login-form">
 			<div class="form-header">
